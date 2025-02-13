@@ -19,7 +19,7 @@ This repository contains my LeetCode solutions implemented in Java. It helps me 
 ## Problem List
 | # | Problem Name                   | Difficutly | Solution |
 |---|--------------------------------|:----------:|:--------:|
-| 47 | Permutations II            | Medium     | Java     |
+| 47 | Permutations II            | Medium     | [Java](./solutions/permutations-ii.java)     |
 
 
 ## Contributing
