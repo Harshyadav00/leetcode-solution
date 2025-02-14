@@ -27,6 +27,7 @@ This repository contains my LeetCode solutions implemented in Java. It helps me 
 |---|--------------------------------|:----------:|:--------:|
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/)           | Medium     | [Java](./solutions/permutations-ii.java)     |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/)     | Medium     | [Java](./solutions/special-permutation.java) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/) | Medium | [Java](./solutions/product_of_last_k_numbers.java) |
 
 ## Contributing
 
