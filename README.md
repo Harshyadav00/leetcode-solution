@@ -33,6 +33,7 @@ This repository contains my LeetCode solutions implemented in Java. It helps me 
 | 2597 | [The Number of Beautiful Subset](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/) | Medium | [Java](./solutions/number_of_beautiful_subset.java) |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) | Medium | [Java](./solutions/find_the_punishment_no_of_an_integer.java) |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/)     | Medium     | [Java](./solutions/special-permutation.java) |
+| 2934 | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/) | Medium | [Java](./solutions/find-champion-ii.java) |
 | 3137 | [Minimum Number of operations to make workd k-periodic](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/) | Medium | [Java](./solutions/minimum-number-of-operations-to-make-word-k-periodic.java) |
 
 ## Contributing
