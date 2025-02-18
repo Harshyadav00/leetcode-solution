@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions implemented in Java. It helps me 
 | 1097 | [Letter Tile Possibilites](https://leetcode.com/problems/letter-tile-possibilities/description/) | Medium | [Java](./solutions/letter_tile_possibilites.java) |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/) | Medium | [Java](./solutions/product_of_last_k_numbers.java) |
 | 1718 | [Construct the lexicographically largest valid sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) | Medium | [Java](./solutions/construct_the_lexicographically_largest_valid_sequence.java) |
+| 2375 | [Construct Smallest Number from DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/) | Medium | [Java](./solutions/construct-smallest-number-from-di-string.java) |
 | 2597 | [The Number of Beautiful Subset](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/) | Medium | [Java](./solutions/number_of_beautiful_subset.java) |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) | Medium | [Java](./solutions/find_the_punishment_no_of_an_integer.java) |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/)     | Medium     | [Java](./solutions/special-permutation.java) |
