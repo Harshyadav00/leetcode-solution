@@ -29,6 +29,7 @@ This repository contains my LeetCode solutions implemented in Java. It helps me 
 | 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) | Medium | [Java](./solutions/shopping-offers.java) |
 | 1097 | [Letter Tile Possibilites](https://leetcode.com/problems/letter-tile-possibilities/description/) | Medium | [Java](./solutions/letter_tile_possibilites.java) |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/) | Medium | [Java](./solutions/product_of_last_k_numbers.java) |
+| 1415 | [The kth lexicographically string of all happy strings of length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | Medium | [Java](./solutions/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.java) |
 | 1718 | [Construct the lexicographically largest valid sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) | Medium | [Java](./solutions/construct_the_lexicographically_largest_valid_sequence.java) |
 | 2375 | [Construct Smallest Number from DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/) | Medium | [Java](./solutions/construct-smallest-number-from-di-string.java) |
 | 2597 | [The Number of Beautiful Subset](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/) | Medium | [Java](./solutions/number_of_beautiful_subset.java) |
